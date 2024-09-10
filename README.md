@@ -1,3 +1,1 @@
-# IML-2024
-# IML-2024
-# IML-2024
+possible solutions for IML course of ETHZ in year 2024
